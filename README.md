@@ -1,4 +1,4 @@
-### Hi, I'm Farhan Ali! 👋
+### Hi, I'm Farhan Ali ! 👋
 
 - 🌱 I’m currently learning power bi and sql.
 - 👯 I’m looking to collaborate on freelancing projects.
